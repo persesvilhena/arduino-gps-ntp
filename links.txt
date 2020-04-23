@@ -1,0 +1,34 @@
+Links:
+https://www.sos.sk/a_info/resource/c/SIM908-C.pdf
+http://www.teleco.com.br/tutoriais/tutorialgeoloc2/pagina_5.asp
+https://www.robocore.net/modules.php?name=Forums&file=viewtopic&p=40380
+
+
+$GPAA protocol:
+http://gpsworld.com/what-exactly-is-gps-nmea-data/
+
+Observações: 
+●	A função “comma” corresponde a cada um dos parâmetros respondidos pelo GPS na ordem que aparecem no link de referência $GPAA protocol. Ex: comma(1) Horário UTC. 
+
+https://www.hackster.io/Swiss_IoT_DIY/arduino-network-time-clock-847cd1
+Consulta de data com NTP
+
+
+https://github.com/tmiw/arduino-ntpd/blob/master/ArduinoNTPd/ArduinoNTPd.ino
+> projeto TinyNTP, com diversas libs criadas manualmente
+
+
+http://www.osengr.org/Projects/NTP-Server/NTP-Server.shtml
+>projeto ntp server
+
+
+
+https://www.arduino.cc/en/Tutorial/UdpNtpClient
+https://github.com/tmiw/arduino-ntpd/blob/master/ArduinoNTPd/ArduinoNTPd.ino
+https://www.cisco.com/c/en/us/about/press/internet-protocol-journal/back-issues/table-contents-58/154-ntp.html
+http://forum.arduino.cc/index.php?topic=477433.0
+
+
+
+http://www.networksorcery.com/enp/protocol/ntp.htm#Reference_timestamp
+http://support.ntp.org/bin/view/Support/NTPRelatedDefinitions
